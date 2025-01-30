@@ -1,5 +1,8 @@
-# First-React-Project
-Created my first react project and learn the concepts of useState hooks and applied these concepts.
-Button gets updated to show how many times it's clicked without using long, complex codes of javascript.
-Concepts includes: Hooks, Components, props, file import.
-Checkout the website. Thanks.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
